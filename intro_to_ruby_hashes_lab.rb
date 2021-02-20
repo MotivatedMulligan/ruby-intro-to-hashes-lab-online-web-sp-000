@@ -2,20 +2,19 @@
 def new_hash
 new_hash = {}
  new_hash
-end
-# Works !!!!!!!
+end# Works !!!!!!!
 def actor
 actor = {name: "Dwayne The Rock Johnson"}
-end
-# Works !!!!!!!
+end# Works !!!!!!!
 def monopoly
 	monopoly = {railroads: {}}
-	
-end
+end# Works !!!!!!!
+
 
 def monopoly_with_second_tier
 	#copy and paste the monopoly hash you built in the previous method. We're going to add stuff to it here!
-
+	monopoly = {railroads: {pieces: 4},names: {}, rent_in_dollars: {}}
+	
 end
 
 def monopoly_with_third_tier
