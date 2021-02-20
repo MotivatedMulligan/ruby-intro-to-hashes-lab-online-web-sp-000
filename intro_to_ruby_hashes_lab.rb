@@ -1,5 +1,7 @@
-def new_hash
-
+binding.pry
+def new_hash(hash)
+hash = {}
+return hash
 end
 
 def actor
