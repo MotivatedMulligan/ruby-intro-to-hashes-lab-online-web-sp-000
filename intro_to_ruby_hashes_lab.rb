@@ -1,6 +1,6 @@
 
 def new_hash(Hash)
-Hash.new("Hash")
+new_hash = {}
 puts Hash
 end
 
