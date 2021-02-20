@@ -3,16 +3,14 @@ def new_hash
 new_hash = {}
  new_hash
 end
-
+# Works !!!!!!!
 def actor
 actor = {name: "Dwayne The Rock Johnson"}
-	#creates a hash named actor whose key is a symbol :name and whose value is a str
-	#ing, 'Dwayne The Rock Johnson'
 end
-
+# Works !!!!!!!
 def monopoly
-	monopoly = {}
-
+	monopoly = {railroads: {}}
+	
 end
 
 def monopoly_with_second_tier
